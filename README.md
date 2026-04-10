@@ -1,3 +1,4 @@
+
 # Easy RSI Indicator
 
 A simplified and more readable version of the Relative Strength Index (RSI), designed to improve clarity and provide better context when analysing market momentum.
@@ -40,6 +41,9 @@ The indicator is based on the standard RSI calculation but presents the data in 
 - It should be used alongside other analysis methods  
 - Market conditions can change, and no indicator is always accurate
 - Capital at risk
+
+  ## Demo
+  <img width="1102" height="492" alt="Screenshot 2026-04-10 at 9 39 45  png" src="https://github.com/user-attachments/assets/7fb6c944-6dfb-472b-b189-beec005fd130" />
 
 
 
