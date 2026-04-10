@@ -1,4 +1,4 @@
-# Clean RSI Indicator
+# Easy RSI Indicator
 
 A simplified and more readable version of the Relative Strength Index (RSI), designed to improve clarity and provide better context when analysing market momentum.
 
