@@ -7,9 +7,6 @@ A simplified and more readable version of the Relative Strength Index (RSI), des
 
 This indicator enhances the traditional RSI by reducing visual noise and incorporating price context directly into the analysis. It is built for traders who want a clearer view of overbought and oversold conditions without overcomplicating their charts.
 
-## Why did I not post it on tradingview directly?
-
-I am not paying £12 a month just to post an amateur script so github it is.
 
 ## Features
 
@@ -21,14 +18,7 @@ I am not paying £12 a month just to post an amateur script so github it is.
 ## How It Works
 
 The indicator is based on the standard RSI calculation but presents the data in a more intuitive format. By displaying price behaviour alongside RSI, it helps users better understand how momentum relates to actual market movement.
-
-## Usage
-
-1. Open TradingView  
-2. Go to the Pine Editor  
-3. Copy and paste the script from this repository  
-4. Click "Add to Chart"  
-
+ 
 ## Use 
 
 - Identifying overbought and oversold conditions  
