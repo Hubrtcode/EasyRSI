@@ -42,6 +42,9 @@ The indicator is based on the standard RSI calculation but presents the data in 
 - Market conditions can change, and no indicator is always accurate
 - Capital at risk
 
+## TradingView link
+  https://www.tradingview.com/script/axE8WslX-Easy-RSI/
+
   ## Demo
   <img width="1102" height="492" alt="Screenshot 2026-04-10 at 9 39 45  png" src="https://github.com/user-attachments/assets/7fb6c944-6dfb-472b-b189-beec005fd130" />
 
